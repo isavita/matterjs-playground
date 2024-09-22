@@ -4,7 +4,8 @@ This repository contains various tutorials and experiments using the [Matter.js]
 
 ## Examples
 
-- [Minimal Example](./examples/minimal-example/index.html)
+- [Minimal Example](./examples/minimal-example/index.html) (doc [here](https://github.com/liabru/matter-js/wiki/Getting-started))
+- [Introduction to Matter.js - The Nature of Code](./examples/introduction-to-matterjs/index.html) (video [here](https://www.youtube.com/watch?v=urR596FsU68))
 
 ## How to run
 
